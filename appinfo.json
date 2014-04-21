@@ -1,0 +1,45 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "uuid": "284a8a47-def6-4475-bbc2-8c4d8b0f36ce",
+    "versionLabel": "1.0",
+    "longName": "Minimal - Helv",
+    "companyName": "james@jjpeet.com",
+    "versionCode": 1,
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "Menu_Icon",
+                "file": "images/Helvetica_Watch_Face_Small.png"
+            },
+            {
+                "type": "font",
+                "name": "FONT_HELVETICA_LIGHT_30",
+                "file": "fonts/HelveticaNeueLTCom-Lt.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_HELVETICA_LIGHT_42",
+                "file": "fonts/HelveticaNeueLTCom-Lt.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_HELVETICA_LIGHT_25",
+                "file": "fonts/HelveticaNeueLTCom-Lt.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_HELVETICA_BOLD_40",
+                "file": "fonts/HelveticaNeueLTCom-Bd.ttf"
+            }
+        ]
+    },
+    "watchapp": {
+        "watchface": true
+    },
+    "shortName": "Minimal-Helv"
+}
